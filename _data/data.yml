@@ -28,14 +28,14 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: Tamil
-        level: Native
-
       - idiom: English
         level: Professional
 
+      - idiom: Tamil
+        level: Native
+
     interests:
-      - item: Cooking
+      - item: Meditation
         link:
 
       - item: Reading Books
@@ -117,7 +117,7 @@ skills:
       - name: Linux
         level: 78%
 
-      - name: HTML5 & CSS
+      - name: HTML5,CSS & React js
         level: 78%
 
       - name: Git & github
@@ -125,6 +125,9 @@ skills:
 
       - name: Sketch & Photoshop
         level: 60%
+      
+      - name: C,C++
+        level: 80%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
